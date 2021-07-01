@@ -1,5 +1,5 @@
-### [Aplikasi Perekaman Toko Buku](http://bookstore-adesug.herokuapp.com/) klik
-### [Diagram dan penjelasan](https://drive.google.com/file/d/1DsYMeY8FXMdUVxyXjaFOSRkWBNsQ4oB5/view?usp=sharing) klik
+### [Aplikasi Toko Laptop](http://uas-laptop.herokuapp.com/) klik
+### [Diagram dan penjelasan](https://drive.google.com/drive/folders/1NOVFlD-j8RGmQz5xqJt0slQb7FPpqUPo?usp=sharing) klik
 #### By
 - Nama  : Iqbal subekhan
 - NIM   : 18090006
